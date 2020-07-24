@@ -1,0 +1,10 @@
+# Error Page Change
+ErrorDocument 403 /403club.html
+
+# AccessControl referer
+#SetEnvIf Referer "^http://tdumedia\.sharepoint\.com\/sites\/club_info2020" chk_url
+#SetEnvIf Referer "^https://tdumedia\.sharepoint\.com\/sites\/club_info2020" chk_url
+
+#order deny,allow
+#deny from all
+#allow from env=chk_url

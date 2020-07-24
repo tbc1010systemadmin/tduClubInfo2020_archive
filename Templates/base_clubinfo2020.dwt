@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta http-equiv="Pragma" content="no-cache" />
+<!-- キャッシュ抑制 for HTTP1.0 -->
+<meta http-equiv="Cache-Control" content="no-cache" />
+<!-- キャッシュ抑制 for HTTP1.1 -->
+<meta http-equiv="Expires" content="0" />
+<!-- キャッシュ有効期限 -->
+<meta name="format-detection" content="telephone=no" />
+<!-- 電話番号の自動リンク機能を制御 for iPhone -->
+<meta name="format-detection" content="address=no" />
+<!-- 住所の自動リンク機能抑制　for Android-->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#2A4B66">
+<!-- TemplateBeginEditable name="social" -->
+<!-- social -->
+<meta name="keywords" content="東京電機大学,TDU,電大,電機大,クラブ紹介,TDU合同クラブ紹介,サークル紹介,放送委員会,放送,アーカイブ">
+<meta property="og:title" content="TDU合同クラブ紹介" />
+<meta property="og:image" content="https://tbc1010.com/clubinfo/archive/img/card.png">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@tbc_1010" />
+<meta name="twitter:title" content="TDU合同クラブ紹介" />
+<meta name="og:description" content="このサイトは、TDU合同クラブ紹介のアーカイブサイトになります。" />
+<meta name="twitter:image" content="https://tbc1010.com/clubinfo/archive/img/card.png" />
+<meta name="twitter:url" content="https://tbc1010.com/clubinfo/archive/" />
+<!-- // social -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>TDU合同クラブ紹介</title>
+<!-- TemplateEndEditable -->
+<link rel="icon" href="https://tbc1010.com/wp-content/uploads/2018/08/cropped-TBC_logo1-1-32x32.png" sizes="32x32"/>
+<link rel="icon" href="https://tbc1010.com/wp-content/uploads/2018/08/cropped-TBC_logo1-1-192x192.png" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://tbc1010.com/wp-content/uploads/2018/08/cropped-TBC_logo1-1-180x180.png"/>
+<meta name="msapplication-TileImage" content="https://tbc1010.com/wp-content/uploads/2018/08/cropped-TBC_logo1-1-270x270.png"/>
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/css/mdb.min.css" rel="stylesheet">
+<!-- original_css -->
+<link href="../archive/css/style.css" rel="stylesheet" type="text/css" media="screen">
+
+<!-- WebFontX --> 
+<script src="//webfonts.xserver.jp/js/xserver.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<!-- display_loading -->
+<div id="loader-bg">
+  <div id="loader">
+    <div class="spinner-grow" style="width: 3rem; height: 3rem;" role="status"> <span class="sr-only">Loading...</span> </div>
+  </div>
+</div>
+<!-- //display_loading --> 
+
+<!--loaded_content-->
+<div id="loaded_content"> 
+  
+  <!--Main Navigation-->
+  <header> 
+    
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark unique-color"> 
+      
+      <!-- Additional container -->
+      <div class="container"> 
+        
+        <!-- Navbar brand --> 
+        <a class="navbar-brand" href="index.html">TDU合同クラブ紹介<br>
+        アーカイブサイト</a> 
+        
+        <!-- Collapse button -->
+        <div class="animated-icon">
+          <button class="navbar-toggler cross-button" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+          aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation"> <span></span><span></span><span></span><span></span> </button>
+        </div>
+        
+        <!-- Collapsible content -->
+        <div class="collapse navbar-collapse" id="basicExampleNav"> 
+          
+          <!-- Links --> 
+          <!-- TemplateBeginEditable name="navLink" -->
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item hoverlink"> <a class="nav-link" href="index.html">Home</a></li>
+            <li class="nav-item hoverlink"> <a class="nav-link" href="committee.html">委員会</a></li>
+            <li class="nav-item hoverlink"> <a class="nav-link" href="culture.html">文化部会</a></li>
+            <li class="nav-item hoverlink"> <a class="nav-link" href="athletic.html">体育会</a></li>
+            <li class="nav-item hoverlink"> <a class="nav-link" href="academic_research.html">学術研究部会</a></li>
+            <li class="nav-item hoverlink"> <a class="nav-link" href="second.html">第二部</a></li>
+            
+            <!-- Dropdown -->
+            <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false" href="#">リンク</a>
+              <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink"> <a class="dropdown-item" href="https://tdumedia.sharepoint.com/sites/club_info2020" target="_blank">クラブ紹介2020</a><a class="dropdown-item" href="https://tbc1010.com" target="_blank">TBC公式サイト</a><a class="dropdown-item" href="https://twitter.com/tbc_1010" target="_blank">TBC公式Twitter</a></div>
+            </li>
+          </ul>
+          <!-- TemplateEndEditable --> 
+          <!-- Links --> 
+          
+        </div>
+        <!-- Collapsible content --> 
+        
+      </div>
+      <!-- Additional container --> 
+      
+    </nav>
+    <!--/.Navbar--> 
+    
+  </header>
+  <!--// Main Navigation--> 
+  
+  <!-- TemplateBeginEditable name="Editable_Main" --> <!-- TemplateEndEditable --> 
+  
+  <!-- Footer -->
+  <footer class="page-footer font-small indigo pt-4 mt-4 unique-color"> 
+    
+    <!-- Footer Links -->
+    <div class="container text-left text-md-left"> 
+      
+      <!-- Grid row -->
+      <div class="row"> 
+        
+        <!-- Grid column -->
+        <div class="col-md-6 mt-md-0 mt-3"> 
+          
+          <!-- Content -->
+          <h5 class="text-uppercase">TDU合同クラブ紹介</h5>
+          <div>
+            <p>この企画は賛同していただいた各団体様のご協力により成り立っております。<br>
+              参加団体の皆様には心より感謝申し上げます。<br>
+              <small><span class="grayText">このサイトは、GoogleChrome最新版で動作確認しております。プライバシー設定によっては埋め込み動画が正しく表示できない場合があります。</span></small></p>
+          </div>
+        </div>
+        <!-- Grid column -->
+        
+        <hr class="clearfix w-100 d-md-none pb-3">
+        
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3"> 
+          
+          <!-- Links -->
+          <h5 class="text-uppercase">当サイトについて</h5>
+          <ul class="list-unstyled">
+            <li> <a href="siteinfomation.html">免責事項</a> </li>
+            <li> <a href="https://tbc1010.com/contact/">お問い合わせ</a> </li>
+          </ul>
+        </div>
+        <!-- Grid column --> 
+        
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3"> 
+          
+          <!-- Links -->
+          <h5 class="text-uppercase">委員会</h5>
+          <ul class="list-unstyled">
+            <li> <a href="committee.html#jichi">自治会執行委員会</a> </li>
+            <li> <a href="committee.html#shinbun">新聞委員会</a> </li>
+            <li> <a href="committee.html#hoso">放送委員会</a> </li>
+          </ul>
+        </div>
+        <!-- Grid column --> 
+        
+      </div>
+      <!-- Grid row --> 
+      
+      <!-- Grid row -->
+      <div class="row"> 
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3"> 
+          
+          <!-- Links -->
+          <h5 class="text-uppercase">文化部会</h5>
+          <ul class="list-unstyled">
+            <li> <a href="culture.html#kangen">管弦楽部</a> </li>
+            <li> <a href="culture.html#denkei">軽音楽部</a> </li>
+            <li> <a href="culture.html#coast">コーストジャズオーケストラ</a> </li>
+            <li> <a href="culture.html#glee">グリークラブ</a> </li>
+            <li> <a href="culture.html#buken">舞踏研究会</a> </li>
+            <li> <a href="culture.html#mojazzz">モダンジャズ研究会</a> </li>
+            <li> <a href="culture.html#dj">DJ部</a> </li>
+            <li> <a href="culture.html#media">メディア研究会</a> </li>
+            <li> <a href="culture.html#owarai">お笑い同好会</a> </li>
+            <li> <a href="culture.html#wo">吹奏楽部</a> </li>
+          </ul>
+        </div>
+        <!-- Grid column --> 
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3"> 
+          
+          <!-- Links -->
+          <h5 class="text-uppercase">体育会</h5>
+          <ul class="list-unstyled">
+            <li> <a href="athletic.html#aikido">合気道部</a> </li>
+            <li> <a href="athletic.html#kendo">剣道部</a> </li>
+            <li> <a href="athletic.html#shorinji">少林寺拳法</a> </li>
+            <li> <a href="athletic.html#bad">バドミントン部</a> </li>
+            <li> <a href="athletic.html#ski">スキー部</a> </li>
+            <li> <a href="athletic.html#car">自動車部</a> </li>
+            <li> <a href="athletic.html#cycling">サイクリング部</a> </li>
+            <li> <a href="athletic.html#rikujo">陸上競技部</a> </li>
+          </ul>
+        </div>
+        <!-- Grid column --> 
+        
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3"> 
+          
+          <!-- Links -->
+          <h5 class="text-uppercase">学術研究部会</h5>
+          <ul class="list-unstyled">
+            <li> <a href="academic_research.html#amateur">アマチュア無線部</a> </li>
+            <li> <a href="academic_research.html#jisei">自動制御研究部</a> </li>
+            <li> <a href="academic_research.html#denshi">電子技術研究部</a> </li>
+            <li> <a href="academic_research.html#ene">エネルギー研究部</a> </li>
+          </ul>
+        </div>
+        <!-- Grid column --> 
+        <!-- Grid column -->
+        <div class="col-md-3 mb-md-0 mb-3"> 
+          
+          <!-- Links -->
+          <h5 class="text-uppercase">第二部</h5>
+          <ul class="list-unstyled">
+            <li> <a href="second.html#amateur2">アマチュア無線部</a> </li>
+            <li> <a href="second.html#jichi2">学生自治会執行委員会</a> </li>
+            <li> <a href="second.html#soft">ソフトウェア研究部</a> </li>
+          </ul>
+        </div>
+        <!-- Grid column --> 
+        
+      </div>
+      <!-- Grid row --> 
+      
+    </div>
+    <!-- Footer Links --> 
+    
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2020 <a href="https://tbc1010.com" target="_blank"> TBC -東京電機大学東京千住キャンパス放送委員会-</a> </div>
+    <!-- Copyright --> 
+    
+  </footer>
+  <!-- Footer --> 
+  
+</div>
+<!-- //loaded_content --> 
+
+<!-- JQuery --> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+<!-- Bootstrap tooltips --> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script> 
+<!-- Bootstrap core JavaScript --> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script> 
+<!-- MDB core JavaScript --> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.18.0/js/mdb.min.js"></script> 
+<!-- custom --> 
+<script src="../archive/css/common.js"></script>
+</body>
+</html>
